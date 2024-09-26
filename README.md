@@ -1,2 +1,2 @@
 # Ejercicios Python - Bootcamp Upgrade Hub
- Ejercicios practica de python
+ Ejercicios de introduccion de Python sobre clases, creando una batalla
